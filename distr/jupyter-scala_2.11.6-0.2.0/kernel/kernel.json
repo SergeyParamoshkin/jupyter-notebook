@@ -1,0 +1,12 @@
+{
+  "language" : "scala211",
+  "display_name" : "Scala 2.11",
+  "argv" : [
+    "java",
+    "-jar",
+    "/root/.ipython/kernels/scala211/launcher.jar",
+    "--quiet",
+    "--connection-file",
+    "{connection_file}"
+  ]
+}
